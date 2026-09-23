@@ -458,3 +458,79 @@ padding: 14px 34px;
   border-radius: 30px;
 padding: 14px 24px;
 }
+.page-1 {
+  width: 1280px;
+  height: 1088px;
+  margin-top: 72px;
+  background-color: #F3FAFF;
+}
+.page-1-l1 {
+width: 1184px;
+height: 72px;
+display: flex;
+gap: 247.52px;
+}
+.page-1-l1-left {
+display: flex;
+flex-direction: column;
+}
+.page-1-l1-left-de {
+display: flex;
+flex-direction: row;
+font-size: 11px;
+font-weight: 600;
+color: #065161;
+width: 488.48px;
+
+}
+.page-1-l1-left-do {
+font-family: "Plus Jakarta Sans", sans-serif;
+font-weight: 900;
+font-size: 40px;
+width: 550.48px;
+}
+.page-1-l1-right {
+  width: 439.91px;
+  height: 72px;
+  font-size: 15px;
+  color: #40484B;
+}
+.page-1main {
+  width: 1184px;
+  height: 824px;
+  display: flex;
+  flex-direction: column;
+}
+.page-1main-deed {
+  display: flex;
+  gap: 24px;
+}
+.Khuvsgul {
+  width: 680.66px;
+  border-radius: 20px;
+  height: 420px;
+position: relative;
+background-size: cover;
+background-repeat: no-repeat;
+  background-image: url(./Pasted\ 2026-09-22\ at\ 9.09.41\ PM.png);
+}
+.Khuvsgul-content {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 234px 32px 32px 32px;
+}
+.page-1main-deed1 {
+  display: flex;
+  flex-direction: row;
+}
+.page-1main-deed1-1 {
+background-color: #D9EFF7;
+border-radius: 10px;
+font-size: 11px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
